@@ -64,7 +64,7 @@ const cardNumberPattern = {
 
     {
       mask: "0000 0000 0000 0000",
-      cardtype: "defaut"
+      cardtype: "default"
     }
   ],
 
